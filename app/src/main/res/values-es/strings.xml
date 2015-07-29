@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Colega, ¿Dónde está mi coche?</string>
+    <string name="action_car">Añadir localización del coche</string>
+	<string name="action_delete_car">Borrar localización del coche</string>
+	<string name="action_volume_on">Activar sonido</string>
+	<string name="action_volume_off">Desactivar sonido</string>
+	<string name="title_section1">Mapa</string>
+    <string name="title_section2">Brújula</string>
+    <string name="title_section3">Historial</string>
+	<string name="location_saved">La localización ha sido guardada</string>
+	<string name="location_not_saved">No se ha podido guardar la localización. Por favor, asegúrate de que tu GPS está activado y prueba de nuevo</string>
+	<string name="location_removed">La localización ha sido borrada</string>
+	<string name="no_car">No se ha guardado ninguna localización</string>
+	<string name="distance">Distancia:</string>
+	<string name="meters">metros.</string>
+	<string name="move">Muévete para calibrar tu localización.</string>
+	<string name="your_car">TU COCHE</string>
+	<string name="here">¡Estás al lado de tu coche!</string>
+	<string name="remove_history_title">Borrar elemento</string>
+	<string name="remove_history_message">¿Quieres borrar este elemento?</string>
+	<string name="item_removed">El elemento ha sido borrado</string>
+	<string name="remove">Borrar</string>
+	<string name="cancel">Cancelar</string>
+	<string name="empty_list">Añade una nueva localización para ver elementos aquí\nDeja pulsado un elemento para eliminarlo</string>
+
+</resources>

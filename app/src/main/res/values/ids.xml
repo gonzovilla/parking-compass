@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="maps_api_key">Follow: https://developers.google.com/maps/documentation/android/signup</string>
+    <string name="parseApplicationId">Register and create an app in: https://parse.com/</string>
+    <string name="parseClientKey">Register and create an app in: https://parse.com/</string>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Parking Compass</string>
+	<string name="action_car">Add car location</string>
+	<string name="action_delete_car">Delete car location</string>
+	<string name="action_volume_on">Activate sound</string>
+	<string name="action_volume_off">Deactivate sound</string>
+    <string name="title_section1">Map</string>
+    <string name="title_section2">Compass</string>
+    <string name="title_section3">History</string>
+	<string name="location_saved">The location has been saved</string>
+	<string name="location_not_saved">Location could not be saved. Please make sure your GPS is activated and try again</string>
+	<string name="location_removed">The location has been removed</string>
+	<string name="no_car">No car location has been saved</string>
+	<string name="distance">Distance:</string>
+	<string name="meters">meters.</string>
+	<string name="move">Move to calibrate your location.</string>
+	<string name="your_car">YOUR CAR</string>
+	<string name="here">You are next to your car!</string>
+	<string name="remove_history_title">Remove item</string>
+	<string name="remove_history_message">Do you want to remove this item?</string>
+	<string name="item_removed">The item has been removed</string>
+	<string name="remove">Remove</string>
+	<string name="cancel">Cancel</string>
+	<string name="empty_list">Add a new location to see new items here\nLong press an item to remove it</string>
+
+</resources>
