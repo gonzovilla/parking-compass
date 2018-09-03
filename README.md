@@ -11,7 +11,7 @@ To make the app run modify the file ids.xml (in app/src/main/res/values/) follow
 ## Working app
 
 The last version of the app can be download for free from: [Parking Compass](https://play.google.com/store/apps/details?id=com.cyclopsdev.parkingcompass).
-My other apps can also be downloaded from: [CyclOps Development apps](https://play.google.com/store/search?q=pub%3ACyclOps%20Development).
+My other apps can also be downloaded from: [CyclOps Development apps](https://play.google.com/store/apps/developer?id=CyclOps+Development).
 
 
 ## Contact
